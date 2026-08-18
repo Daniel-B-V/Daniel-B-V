@@ -161,22 +161,22 @@ daniel@github:~$ echo $STATUS
 <h2 align="center">📊 GitHub</h2>
 
 <p align="center">
-  <a href="https://github.com/Kuzensky">
+  <a href="https://github.com/Daniel-B-V">
     <img
-      src="https://img.shields.io/github/followers/Kuzensky?label=Followers&style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/github/followers/Daniel-B-V?label=Followers&style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
 
-  <a href="https://github.com/Kuzensky?tab=repositories">
+  <a href="https://github.com/Daniel-B-V?tab=repositories">
     <img
-      src="https://img.shields.io/github/stars/Kuzensky?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/github/stars/Daniel-B-V?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
 </p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Kuzensky&style=for-the-badge&color=58A6FF"
+    src="https://komarev.com/ghpvc/?username=Daniel-B-V&style=for-the-badge&color=58A6FF"
     alt="Profile views"
   />
 </p>
@@ -199,13 +199,13 @@ daniel@github:~$ echo $STATUS
 
 <p align="center">
 
-  <a href="https://github.com/Kuzensky">
+  <a href="https://github.com/Daniel-B-V">
     <img
       src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/daniel-b-villanueva/">
+  <a href="https://www.linkedin.com/in/daniel-villanueva-5596bb369/">
     <img
       src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
     />
