@@ -172,12 +172,13 @@ daniel@github:~$ echo $STATUS
       src="https://img.shields.io/github/stars/Kuzensky?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
+</p>
 
-<img
- src="https://komarev.com/ghpvc/?username=Kuzensky&style=for-the-badge&color=58A6FF"
- alt="Profile views"
-/>
-
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Kuzensky&style=for-the-badge&color=58A6FF"
+    alt="Profile views"
+  />
 </p>
 
 <!-- ============ CONTRIBUTION GRAPH ============ -->
