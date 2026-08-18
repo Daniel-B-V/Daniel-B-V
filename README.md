@@ -68,6 +68,8 @@ daniel@github:~$ echo $STATUS
 
 <!-- ============ TECH STACK ============ -->
 
+<h2 align="center">⚙️ Tech Stack</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
@@ -94,26 +96,46 @@ daniel@github:~$ echo $STATUS
   <b>Development</b> · Git · GitHub · MySQL · Firebase
 </p>
 
-<!-- ============ GITHUB STATS ============ -->
+<!-- ============ CURRENT FOCUS ============ -->
+
+<h2 align="center">🚀 Currently Exploring</h2>
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Kuzensky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuzensky&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
-  />
+  🤖 Generative AI & LLM Applications
+  <br/>
+  🔎 Retrieval-Augmented Generation (RAG)
+  <br/>
+  🧠 AI Pipelines & Intelligent Systems
+  <br/>
+  📊 Data Engineering
+  <br/>
+  💻 Building Industry-Ready Projects
 </p>
 
-<!-- ============ CONTRIBUTION STREAK ============ -->
+<!-- ============ GITHUB ============ -->
+
+<h2 align="center">📊 GitHub</h2>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Kuzensky&theme=tokyonight&hide_border=true&background=00000000"
-    alt="GitHub contribution streak"
-  />
+  <a href="https://github.com/Kuzensky">
+    <img
+      src="https://img.shields.io/github/followers/Kuzensky?label=Followers&style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Followers"
+    />
+  </a>
+
+  <a href="https://github.com/Kuzensky?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/Kuzensky?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Stars"
+    />
+  </a>
+
+<img
+ src="https://komarev.com/ghpvc/?username=Kuzensky&style=for-the-badge"
+ alt="Profile Views"
+/>
+
 </p>
 
 <!-- ============ FOOTER ============ -->
