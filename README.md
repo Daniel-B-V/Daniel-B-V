@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=Kuzensky&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/wordmark?username=Kuzensky&theme=github-dark" alt="Kuzensky 3d wordmark section" />
+  </picture>
+</p>
 
-<!--
-**Daniel-B-V/Daniel-B-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ============ HEATMAP ============ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/space-shooter.gif" width="1000" />
+</p>
